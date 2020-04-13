@@ -31,8 +31,6 @@ $ composer require getpop/migrate-metaquery dev-master
 }
 ```
 
-([PoP](https://github.com/leoloso/PoP) must be installed)
-
 <!--
 ## Usage
 

@@ -6,7 +6,7 @@ Description: The foundation for a PoP Meta Query
 Plugin URI: https://getpop.org/
 Author: Leonardo Losoviz
 */
-namespace PoP\MetaQuery;
+namespace PoPSchema\MetaQuery;
 use PoP\Hooks\Facades\HooksAPIFacade;
 
 //-------------------------------------------------------------------------------------

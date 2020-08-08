@@ -1,5 +1,5 @@
 <?php
-namespace PoP\MetaQuery;
+namespace PoPSchema\MetaQuery;
 
 class Initialization
 {

@@ -1,5 +1,5 @@
 <?php
-namespace PoP\MetaQuery;
+namespace PoPSchema\MetaQuery;
 use PoP\Translation\Facades\TranslationAPIFacade;
 use PoP\Hooks\Facades\HooksAPIFacade;
 
